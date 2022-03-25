@@ -12,22 +12,22 @@ body{background-color: rgb(27, 26, 26);
 }
 .celeste{
     background-color: rgb(41, 158, 197);
-    float: left;
+    float: right;
     height: 235px;
     width: 1600px;
 }  
 .amarillo{ background-color: yellow;
-    float: left;
+    float: right;
     height: 235px;
     width: 1600px;
 }
 .naranja{ background-color: orange;
-float: left;
+float: right;
 height: 235px;
 width: 1600px;
 }
 .rojo{ background-color: red;
-float: left;
+float: right;
 height: 235px;
 width: 1600px;
 }
