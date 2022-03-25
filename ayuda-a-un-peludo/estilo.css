@@ -1,0 +1,33 @@
+body{background-color: rgb(27, 26, 26);
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 8px;}
+
+    .panelizq{  background-color: rgb(31, 29, 29);
+        float: left;
+        height: 940px;
+        width: 200px;  
+        color: white; 
+        font-size: 10px;
+}
+.celeste{
+    background-color: rgb(41, 158, 197);
+    float: left;
+    height: 235px;
+    width: 1600px;
+}  
+.amarillo{ background-color: yellow;
+    float: left;
+    height: 235px;
+    width: 1600px;
+}
+.naranja{ background-color: orange;
+float: left;
+height: 235px;
+width: 1600px;
+}
+.rojo{ background-color: red;
+float: left;
+height: 235px;
+width: 1600px;
+}
